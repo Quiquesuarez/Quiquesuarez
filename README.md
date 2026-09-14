@@ -1,7 +1,9 @@
-## BIENVENIDO 👋
+## BIENVENIDO a mi perfil 👋
 
 
 Desarrollador Full-Stack | Automatización de Flujos de Trabajo
+
+
 
 
 <!--
